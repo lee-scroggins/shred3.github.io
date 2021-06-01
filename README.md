@@ -9,5 +9,8 @@ I have an AS in Nondestructive Technology, a BS in Digital Media & Web Technolog
 
 ## Current Projects
 
+* Hello World:  Java console application
+
+* Hello World:  Android application
 
 ## Links

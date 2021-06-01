@@ -16,3 +16,7 @@ I have an AS in Nondestructive Technology, a BS in Digital Media & Web Technolog
 ## Links
 
 * [LikedIN](https://www.linkedin.com/in/theleescroggins/)
+
+> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
+>
+> Every line (blank or not) of a blockquote begins with `>`, followed by a space.

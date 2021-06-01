@@ -15,4 +15,4 @@ I have an AS in Nondestructive Technology, a BS in Digital Media & Web Technolog
 
 ## Links
 
-* [LikedIN] (https://www.linkedin.com/in/theleescroggins/)
+* [LikedIN] ({URL https://www.linkedin.com/in/theleescroggins/})

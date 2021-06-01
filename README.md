@@ -1,1 +1,7 @@
-# shred3.github.io
+# Lee Scroggins
+
+## Introduction
+
+## Current Projects
+
+## Links

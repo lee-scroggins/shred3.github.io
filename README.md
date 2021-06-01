@@ -14,3 +14,5 @@ I have an AS in Nondestructive Technology, a BS in Digital Media & Web Technolog
 * Hello World:  Android application
 
 ## Links
+
+* [LikedIN] (https://www.linkedin.com/in/theleescroggins/)

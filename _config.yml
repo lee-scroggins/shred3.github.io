@@ -1,1 +1,19 @@
 theme: jekyll-theme-modernist
+repository_links:
+  enabled: true
+page_navigator:
+  enabled: true
+titles_from_headings:
+  enabled: false
+
+# Modify the contents below for the specific project.
+
+title: "Lee Scroggins"
+description: "My Profile"
+author:
+  name: "Lee Scroggins"
+  email: lee_scroggins@yahoo.com
+  # Do not change the following line.
+  copyright: true
+
+

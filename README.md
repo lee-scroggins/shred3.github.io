@@ -7,9 +7,9 @@ I have an AS in Nondestructive Technology, a BS in Digital Media & Web Technolog
 
 ## Current Projects
 
-* [Hello World:  Java console application](https://github.com/shred3/hello-world-java)
+* [Personal Android Application: Top Tag](https://github.com/ddc-java-13/top-tag)
 
-* [Hello World:  Android application](https://github.com/shred3/hello-world-android)
+
 
 ## Links
 
